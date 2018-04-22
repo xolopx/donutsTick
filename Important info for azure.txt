@@ -1,0 +1,6 @@
+HostName=TelstraChallenge.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=aObiL50yVkt3HCeO75FY4bBv9jJ3JqmXpzYdZkEo15Q=
+
+HostName=TelstraChallenge.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=29u2qHvqM2vMvzAvs+AMqrcga8v/IFO0ydutjvSqyCA=
+
+Kelvin Primary Key 
+HostName=TelstraChallenge.azure-devices.net;DeviceId=Kelvin;SharedAccessKey=t4a9L1zJbtbow4P4wHeoXOjE3HpmrDgxW/OGES1XeMk=
